@@ -325,6 +325,7 @@ PRODUCT_PACKAGES += \
     libsns_device_mode_stub \
     libsns_fastRPC_util \
     libsns_low_lat_stream_stub \
+    libsns_registry_skel \
     libsnsapi \
     libsnsdiaglog \
     libssc \
