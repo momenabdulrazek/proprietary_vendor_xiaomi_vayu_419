@@ -172,6 +172,7 @@ PRODUCT_PACKAGES += \
     libaudio_log_utils \
     libaudioconfigstore \
     libaudioparsers \
+    libaudioroute \
     libaudioroute_ext \
     libdrc \
     libhdmipassthru \
